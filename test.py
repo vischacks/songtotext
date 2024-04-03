@@ -2,7 +2,7 @@ import os
 import re
 
 # specify the root directory to start searching for music files
-root_directory = '/Users/giacomoviscardi/Music'
+root_directory = '/path'
 
 # specify the output file name
 output_file = 'song_titles.txt'
